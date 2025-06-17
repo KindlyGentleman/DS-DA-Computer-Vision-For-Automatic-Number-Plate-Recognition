@@ -1,0 +1,7 @@
+path: D:/YOLO/Licence Plate/dataset
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 4
+names: ['License_Plate', 'cars', 'motorcyle', 'truck']
